@@ -1,7 +1,7 @@
 # Pipeline-processor
 Processor using pipeline microarchitecture based on the RISC-V architecture in SystemVerilog.
 
-This processor is capabable of execute the following instructions: 
+This processor is capable of executing the following instructions: 
 ```asm
 lw
 sw
